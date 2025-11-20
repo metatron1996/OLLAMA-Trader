@@ -25,7 +25,7 @@ OLLAMA-Trader 是一个集成了大型语言模型 (LLM) 的高级量化交易�
     *   **动态规则库**: AI 可以直接修改和完善自身的交易规则和策略。
 
 *   🤖 **OLLAMA 集成**:
-    *   利用本地运行的 LLM (如 Llama 3, Qwen 2.5) 进行复杂的市场分析和交易决策。
+    *   利用本地运行的 LLM (如 gpt-oss:20b, Qwen 2.5) 进行复杂的市场分析和交易决策。
     *   支持通过 OLLAMA 进行自然语言交互，分析市场情绪。
 
 *   📊 **全面的交易与分析工具**:
@@ -141,7 +141,9 @@ OLLAMA-Trader 采用模块化架构，主要包括以下几个核心组件：
 
 如果你有任何问题或建议，请通过以下方式联系我们：
 
-*   **GitHub Issues**: [https://github.com/your-username/your-repo/issues](https://github.com/your-username/your-repo/issues)
+*   telegream
+![微信图片_20251120120655_391_9](https://github.com/user-attachments/assets/ac79aed0-a593-4722-972c-7a017799135d)
+
 ## 打赏
 
 如果这个项目对你有帮助，欢迎通过以下方式支持我的开发工作：
