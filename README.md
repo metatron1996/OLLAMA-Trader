@@ -98,9 +98,11 @@ OLLAMA-Trader 采用模块化架构，主要包括以下几个核心组件：
     在 设置中可以直接绑定并激活交易所API_Key
 5.  **运行程序**:
     ```bash
-    run_qt_app.cmd
-    /
     python run_qt_app.py
+    ```
+    or
+    ```bash
+    run_qt_app.cmd
     ```
 
 ## 使用指南
